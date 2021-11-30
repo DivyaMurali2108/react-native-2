@@ -1,1 +1,2 @@
-# react-native-2
+# Blog-App-Stage-2
+Blog app project
